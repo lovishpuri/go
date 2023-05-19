@@ -1,4 +1,4 @@
-module std
+module github.com/lovishpuri/go-40569/src
 
 go 1.21
 
